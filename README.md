@@ -1,6 +1,6 @@
 # Calculadora em Python
 
-Este projeto é uma calculadora simples desenvolvida em Python. O objetivo é revisar operações matemáticas básicas e implementar boas práticas de código. A calculadora suporta as seguintes operações:
+Este projeto é uma calculadora simples desenvolvida em Python. O objetivo é revisar operações matemáticas básicas e implementar boas práticas de código. Fiz uma implementação em que somente é permitido uso de numeros inteiros. A calculadora suporta as seguintes operações:
 
 - Soma
 - Subtração
