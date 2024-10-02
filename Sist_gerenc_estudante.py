@@ -73,7 +73,7 @@ def menu():
 
         elif escolha == "3":
 
-            nome = input("\nDigite o nome do estudante para visualizar as informações:")
+            nome = input("\nDigite o nome do estudante para visualizar as informações: ")
 
             for estudante in estudantes:
                 if estudante.get_nome() == nome:

@@ -27,7 +27,10 @@ O arquivo `Sist_gerenc_estudante.py` é um sistema para gerenciar informações 
 
 **Nota:** Certifique-se de ter Python instalado e que o arquivo esteja configurado corretamente para execução.
 
+### Observação:
 
+- **Dados Persistentes - esse código não inside em interação com nenhuma biblioteca ou banco de dados, trarei a implementação
+com dados persistentes, com sqlite3 ou BD MySQL.
 
 
 
