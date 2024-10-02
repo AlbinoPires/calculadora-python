@@ -1,3 +1,45 @@
+# Projeto I - Sistema de Gerenciamento de Livraria
+
+## Descrição
+
+Este projeto é um sistema simples de gerenciamento de uma livraria, criado em Python utilizando Programação Orientada a Objetos (POO). O sistema permite a interação dos usuários com os livros disponíveis, possibilitando o cadastro de usuários, consulta ao acervo, solicitação de empréstimos e devolução de livros.
+
+## Funcionalidades Implementadas
+
+1. **Classes**:
+    - **Livro**: Representa os livros com atributos como título, autor, ano de publicação e disponibilidade.
+    - **Usuário**: Representa os usuários da livraria, com atributos como nome e ID do usuário.
+    - **Biblioteca**: Gerencia os livros e usuários, permitindo adicionar livros, registrar usuários, emprestar e devolver livros.
+
+2. **Funcionalidades**:
+    - Adicionar novos livros à biblioteca.
+    - Registrar novos usuários.
+    - Permitir que usuários solicitem empréstimos e devolvam livros.
+    - Listar todos os livros disponíveis e emprestados.
+    - Pesquisar livros por título ou autor.
+
+## Progresso e Recursos
+
+O sistema foi desenvolvido com uma interface simples e interativa, onde os usuários podem facilmente navegar pelas opções disponíveis. Até o momento, as funcionalidades básicas foram implementadas e testadas, garantindo uma usabilidade sem transtornos. No entanto, a persistência de dados não foi implementada nesta versão.
+
+## Próximas Atualizações
+
+Na atualização **1.1**, planejamos implementar a persistência de dados utilizando um banco de dados, permitindo que as informações sobre livros e usuários sejam salvas e acessadas mesmo após o fechamento do programa.
+
+## Contribuições
+
+Estamos abertos a sugestões e melhorias! Se você deseja contribuir para este projeto, fique à vontade para abrir uma issue ou enviar um pull request.
+
+## Licença
+
+Este projeto é de código aberto. Sinta-se à vontade para utilizá-lo e modificá-lo conforme necessário.
+
+
+
+
+
+
+
 *************************************************************************************************************************
 # Sistema de Gerenciamento de Estudantes
 ************************************************************************************************************************
